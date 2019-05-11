@@ -1,4 +1,4 @@
-import struct
+import struct f
 import numpy as np
 import pandas as pd
 import os, sys
