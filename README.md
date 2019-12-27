@@ -7,7 +7,7 @@ Just a mild interest in paintings...maybe a bit more than mild...
 
 **What it does**
 
-Predicts year artwork was made
+Predicts year artwork was made (year range is from 0 - 2000).
 
 **How we built it**
 
