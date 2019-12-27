@@ -1,4 +1,4 @@
-# Project-Artage-
+# Project-Artage
 Project Artage is a Convolution Neural Network that was built during ACM Hack's 12 Hour Hack on the Hill.
 
 **Inspiration**
